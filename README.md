@@ -12,3 +12,5 @@
 * Hussain sagar lake
 * secretariat
 * Lumbini park
+
+![Mymedia link](Mymedia.md)
