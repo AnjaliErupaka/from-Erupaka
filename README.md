@@ -7,3 +7,8 @@
 1. Chicken Biryani
 2. Mutton Biryani
 3. Chicken 65
+
+# Places to visit
+* Hussain sagar lake
+* secretariat
+* Lumbini park
