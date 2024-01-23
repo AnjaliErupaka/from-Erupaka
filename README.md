@@ -14,3 +14,12 @@
 * Lumbini park
 
 ![Mymedia link](Mymedia.md)
+
+---
+# My Recommendation
+I would recommend to read books. The below table includes of three columns they are: **Name of the book**, **my reason for recommending**, **Writer of the book**.
+| Name of the Book | reason for recommending | writer of the book |
+| --- | --- | --- |
+| Neuromancer | A classic science fiction story | William Gibson |
+| The Pillars of the Earth | historical fiction with a blend of drama | Ken Follett |
+| 1984 | thought-provoking and socially relevant fiction | George Orwell |
