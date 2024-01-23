@@ -27,6 +27,7 @@ I would recommend to read books. The below table includes of three columns they 
 ---
 # Favorite Quotes
 > "If you want to shine like a sun, first burn like a sun."
-> - *A.P.J. Abdul Kalam*
+
 > "Man needs his difficulties because they are necessary to enjoy success."
+
 > - *A.P.J. Abdul Kalam*
