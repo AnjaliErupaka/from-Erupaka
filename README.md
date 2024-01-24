@@ -31,3 +31,13 @@ I would recommend to read books. The below table includes of three columns they 
 > "Man needs his difficulties because they are necessary to enjoy success."
 
 > - *A.P.J. Abdul Kalam*
+
+---
+# code fencing
+This SQL snippet gives us the information of BETWEEN clause. The BETWEEN command is one of the logical operators in SQL. The BETWEEN command in SQL is used to filter data within a specific range. To compare a value with an exclusive range, we use the comparison operators less than (<) and greater than ( >). The BETWEEN operator is a combination of begin and end values, where end values and begin values are inclusive.
+
+SELECT column_name(s)
+FROM table_name
+WHERE column_name BETWEEN value1 AND value2;
+
+ My link for the code: [Snippet Link](https://code.pieces.app/collections/sql)
