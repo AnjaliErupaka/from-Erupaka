@@ -30,7 +30,7 @@ I would recommend to read books. The below table includes of three columns they 
 
 > "Man needs his difficulties because they are necessary to enjoy success."
 
-> - *A.P.J. Abdul Kalam*
+> Author Name: *A.P.J. Abdul Kalam*
 
 ---
 # code fencing
