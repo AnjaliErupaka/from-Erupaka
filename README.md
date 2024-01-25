@@ -23,7 +23,7 @@ I would recommend to read books. The below table includes of three columns they 
 | Neuromancer | A classic science fiction story | William Gibson |
 | The Pillars of the Earth | historical fiction with a blend of drama | Ken Follett |
 | 1984 | thought-provoking and socially relevant fiction | George Orwell |
-
+| Half torn heart | compelling narrative that delves into the intricacies of love, heartbreak | novoneel chakravarthy |
 ---
 # Favorite Quotes
 > "If you want to shine like a sun, first burn like a sun."
